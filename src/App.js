@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "./logo.svg";
+
 import Icon from "./components/icon";
 
 import { ToastContainer, toast } from "react-toastify";
